@@ -1,0 +1,17 @@
+.mat-mdc-card {
+    margin-top: 200px;
+    padding: 40px;
+    width: 100%;
+}
+
+.mat-mdc-card-title{
+    color: white;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/*https://youtu.be/DaE_RpWRlJI?t=3932*/
